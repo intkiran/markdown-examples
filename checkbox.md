@@ -1,4 +1,4 @@
-*This is an example for **markdown checkbox** documented at [w3schools](#)
+*This is an example for **markdown checkbox** documented at w3schools.io website
 ```Markdown
 ### Todo list
 
@@ -22,3 +22,5 @@
 - [ ] Stage
 - [ ] Beta Testing
 - [ ] Production
+
+More examples can be found here  [w3schools](https://w3schools.io/file/markdown-checkbox-github/)
